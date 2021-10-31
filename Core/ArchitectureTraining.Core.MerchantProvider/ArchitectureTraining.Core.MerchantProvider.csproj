@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\ArchitectureTraining.Common.Models\ArchitectureTraining.Common.Models.csproj" />
+    <ProjectReference Include="..\..\Common\ArchitectureTraining.Common.Repository\ArchitectureTraining.Common.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
